@@ -1,3 +1,10 @@
+"""
+CPE106L - B3
+    GROUP1:
+        BRIOL
+        CACANANTA
+        GUTIERREZ
+"""
 fileName = input('Enter file name: ')
 lines = []
 try:
