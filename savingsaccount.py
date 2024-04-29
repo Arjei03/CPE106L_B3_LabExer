@@ -1,3 +1,11 @@
+'''
+CPE106L - B3
+    GROUP1:
+        BRIOL
+        CACANANTA
+        GUTIERREZ
+'''
+
 """
 File: savingsaccount.py
 This module defines the SavingsAccount class.
