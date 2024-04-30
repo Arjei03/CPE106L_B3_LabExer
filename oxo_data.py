@@ -1,3 +1,10 @@
+'''
+CPE106L - B3
+    GROUP1:
+        BRIOL
+        CACANANTA
+        GUTIERREZ
+'''
 ''' oxo_data is the data module for a tic-tac-toe (or OXO) game. 
     It saves and restores a game board. The functions are:
          saveGame(game) -> None
