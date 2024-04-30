@@ -1,4 +1,11 @@
 """
+CPE106L - B3
+    GROUP 1:
+        BRIOL
+        CACANANTA
+        GUTIERREZ
+"""
+"""
 File: student.py
 Resources to manage a student's name and test scores.
 """
