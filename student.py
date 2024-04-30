@@ -48,16 +48,16 @@ class Student(object):
         return self.name >= other.name
         
 def main():
-    student1 = Student("Robbie", 2)
-    student1.setScore(2, 80)
-    student2 = Student("King", 1.5)
-    student2.setScore(1.5, 93)
-    student3 = Student("Maria", 2)
-    student3.setScore(2,82)
-    student4 = Student("Louise", 1.75)
-    student4.setScore(1.75, 86)
-    student5 = Student("Victoria", 2.75)
-    student5.setScore(2.75, 76)
+    student1 = Student("Robbie", 1)
+    student1.setScore(1, 80)
+    student2 = Student("King", 1)
+    student2.setScore(1, 93)
+    student3 = Student("Maria", 1)
+    student3.setScore(1,82)
+    student4 = Student("Louise", 1)
+    student4.setScore(1, 86)
+    student5 = Student("Victoria", 1)
+    student5.setScore(1, 76)
 
     students = [student1, student2, student3, student4, student5]
 
