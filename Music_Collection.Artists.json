@@ -1,0 +1,1925 @@
+[{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d871"
+  },
+  "ArtistId": 1,
+  "Name": "AC/DC"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d872"
+  },
+  "ArtistId": 2,
+  "Name": "Accept"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d873"
+  },
+  "ArtistId": 3,
+  "Name": "Aerosmith"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d874"
+  },
+  "ArtistId": 4,
+  "Name": "Alanis Morissette"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d875"
+  },
+  "ArtistId": 5,
+  "Name": "Alice In Chains"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d876"
+  },
+  "ArtistId": 6,
+  "Name": "Antônio Carlos Jobim"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d877"
+  },
+  "ArtistId": 7,
+  "Name": "Apocalyptica"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d878"
+  },
+  "ArtistId": 8,
+  "Name": "Audioslave"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d879"
+  },
+  "ArtistId": 9,
+  "Name": "BackBeat"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d87a"
+  },
+  "ArtistId": 10,
+  "Name": "Billy Cobham"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d87b"
+  },
+  "ArtistId": 11,
+  "Name": "Black Label Society"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d87c"
+  },
+  "ArtistId": 12,
+  "Name": "Black Sabbath"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d87d"
+  },
+  "ArtistId": 13,
+  "Name": "Body Count"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d87e"
+  },
+  "ArtistId": 14,
+  "Name": "Bruce Dickinson"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d87f"
+  },
+  "ArtistId": 15,
+  "Name": "Buddy Guy"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d880"
+  },
+  "ArtistId": 16,
+  "Name": "Caetano Veloso"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d881"
+  },
+  "ArtistId": 17,
+  "Name": "Chico Buarque"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d882"
+  },
+  "ArtistId": 18,
+  "Name": "Chico Science & Nação Zumbi"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d883"
+  },
+  "ArtistId": 19,
+  "Name": "Cidade Negra"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d884"
+  },
+  "ArtistId": 20,
+  "Name": "Cláudio Zoli"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d885"
+  },
+  "ArtistId": 21,
+  "Name": "Various Artists"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d886"
+  },
+  "ArtistId": 22,
+  "Name": "Led Zeppelin"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d887"
+  },
+  "ArtistId": 23,
+  "Name": "Frank Zappa & Captain Beefheart"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d888"
+  },
+  "ArtistId": 24,
+  "Name": "Marcos Valle"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d889"
+  },
+  "ArtistId": 25,
+  "Name": "Milton Nascimento & Bebeto"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d88a"
+  },
+  "ArtistId": 26,
+  "Name": "Azymuth"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d88b"
+  },
+  "ArtistId": 27,
+  "Name": "Gilberto Gil"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d88c"
+  },
+  "ArtistId": 28,
+  "Name": "João Gilberto"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d88d"
+  },
+  "ArtistId": 29,
+  "Name": "Bebel Gilberto"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d88e"
+  },
+  "ArtistId": 30,
+  "Name": "Jorge Vercilo"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d88f"
+  },
+  "ArtistId": 31,
+  "Name": "Baby Consuelo"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d890"
+  },
+  "ArtistId": 32,
+  "Name": "Ney Matogrosso"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d891"
+  },
+  "ArtistId": 33,
+  "Name": "Luiz Melodia"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d892"
+  },
+  "ArtistId": 34,
+  "Name": "Nando Reis"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d893"
+  },
+  "ArtistId": 35,
+  "Name": "Pedro Luís & A Parede"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d894"
+  },
+  "ArtistId": 36,
+  "Name": "O Rappa"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d895"
+  },
+  "ArtistId": 37,
+  "Name": "Ed Motta"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d896"
+  },
+  "ArtistId": 38,
+  "Name": "Banda Black Rio"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d897"
+  },
+  "ArtistId": 39,
+  "Name": "Fernanda Porto"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d898"
+  },
+  "ArtistId": 40,
+  "Name": "Os Cariocas"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d899"
+  },
+  "ArtistId": 41,
+  "Name": "Elis Regina"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d89a"
+  },
+  "ArtistId": 42,
+  "Name": "Milton Nascimento"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d89b"
+  },
+  "ArtistId": 43,
+  "Name": "A Cor Do Som"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d89c"
+  },
+  "ArtistId": 44,
+  "Name": "Kid Abelha"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d89d"
+  },
+  "ArtistId": 45,
+  "Name": "Sandra De Sá"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d89e"
+  },
+  "ArtistId": 46,
+  "Name": "Jorge Ben"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d89f"
+  },
+  "ArtistId": 47,
+  "Name": "Hermeto Pascoal"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8a0"
+  },
+  "ArtistId": 48,
+  "Name": "Barão Vermelho"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8a1"
+  },
+  "ArtistId": 49,
+  "Name": "Edson, DJ Marky & DJ Patife Featuring Fernanda Porto"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8a2"
+  },
+  "ArtistId": 50,
+  "Name": "Metallica"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8a3"
+  },
+  "ArtistId": 51,
+  "Name": "Queen"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8a4"
+  },
+  "ArtistId": 52,
+  "Name": "Kiss"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8a5"
+  },
+  "ArtistId": 53,
+  "Name": "Spyro Gyra"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8a6"
+  },
+  "ArtistId": 54,
+  "Name": "Green Day"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8a7"
+  },
+  "ArtistId": 55,
+  "Name": "David Coverdale"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8a8"
+  },
+  "ArtistId": 56,
+  "Name": "Gonzaguinha"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8a9"
+  },
+  "ArtistId": 57,
+  "Name": "Os Mutantes"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8aa"
+  },
+  "ArtistId": 58,
+  "Name": "Deep Purple"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8ab"
+  },
+  "ArtistId": 59,
+  "Name": "Santana"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8ac"
+  },
+  "ArtistId": 60,
+  "Name": "Santana Feat. Dave Matthews"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8ad"
+  },
+  "ArtistId": 61,
+  "Name": "Santana Feat. Everlast"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8ae"
+  },
+  "ArtistId": 62,
+  "Name": "Santana Feat. Rob Thomas"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8af"
+  },
+  "ArtistId": 63,
+  "Name": "Santana Feat. Lauryn Hill & Cee-Lo"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8b0"
+  },
+  "ArtistId": 64,
+  "Name": "Santana Feat. The Project G&B"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8b1"
+  },
+  "ArtistId": 65,
+  "Name": "Santana Feat. Maná"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8b2"
+  },
+  "ArtistId": 66,
+  "Name": "Santana Feat. Eagle-Eye Cherry"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8b3"
+  },
+  "ArtistId": 67,
+  "Name": "Santana Feat. Eric Clapton"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8b4"
+  },
+  "ArtistId": 68,
+  "Name": "Miles Davis"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8b5"
+  },
+  "ArtistId": 69,
+  "Name": "Gene Krupa"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8b6"
+  },
+  "ArtistId": 70,
+  "Name": "Toquinho & Vinícius"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8b7"
+  },
+  "ArtistId": 71,
+  "Name": "Vinícius De Moraes & Baden Powell"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8b8"
+  },
+  "ArtistId": 72,
+  "Name": "Vinícius De Moraes"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8b9"
+  },
+  "ArtistId": 73,
+  "Name": "Vinícius E Qurteto Em Cy"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8ba"
+  },
+  "ArtistId": 74,
+  "Name": "Vinícius E Odette Lara"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8bb"
+  },
+  "ArtistId": 75,
+  "Name": "Vinicius, Toquinho & Quarteto Em Cy"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8bc"
+  },
+  "ArtistId": 76,
+  "Name": "Creedence Clearwater Revival"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8bd"
+  },
+  "ArtistId": 77,
+  "Name": "Cássia Eller"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8be"
+  },
+  "ArtistId": 78,
+  "Name": "Def Leppard"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8bf"
+  },
+  "ArtistId": 79,
+  "Name": "Dennis Chambers"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8c0"
+  },
+  "ArtistId": 80,
+  "Name": "Djavan"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8c1"
+  },
+  "ArtistId": 81,
+  "Name": "Eric Clapton"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8c2"
+  },
+  "ArtistId": 82,
+  "Name": "Faith No More"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8c3"
+  },
+  "ArtistId": 83,
+  "Name": "Falamansa"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8c4"
+  },
+  "ArtistId": 84,
+  "Name": "Foo Fighters"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8c5"
+  },
+  "ArtistId": 85,
+  "Name": "Frank Sinatra"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8c6"
+  },
+  "ArtistId": 86,
+  "Name": "Funk Como Le Gusta"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8c7"
+  },
+  "ArtistId": 87,
+  "Name": "Godsmack"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8c8"
+  },
+  "ArtistId": 88,
+  "Name": "Guns N' Roses"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8c9"
+  },
+  "ArtistId": 89,
+  "Name": "Incognito"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8ca"
+  },
+  "ArtistId": 90,
+  "Name": "Iron Maiden"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8cb"
+  },
+  "ArtistId": 91,
+  "Name": "James Brown"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8cc"
+  },
+  "ArtistId": 92,
+  "Name": "Jamiroquai"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8cd"
+  },
+  "ArtistId": 93,
+  "Name": "JET"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8ce"
+  },
+  "ArtistId": 94,
+  "Name": "Jimi Hendrix"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8cf"
+  },
+  "ArtistId": 95,
+  "Name": "Joe Satriani"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8d0"
+  },
+  "ArtistId": 96,
+  "Name": "Jota Quest"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8d1"
+  },
+  "ArtistId": 97,
+  "Name": "João Suplicy"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8d2"
+  },
+  "ArtistId": 98,
+  "Name": "Judas Priest"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8d3"
+  },
+  "ArtistId": 99,
+  "Name": "Legião Urbana"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8d4"
+  },
+  "ArtistId": 100,
+  "Name": "Lenny Kravitz"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8d5"
+  },
+  "ArtistId": 101,
+  "Name": "Lulu Santos"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8d6"
+  },
+  "ArtistId": 102,
+  "Name": "Marillion"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8d7"
+  },
+  "ArtistId": 103,
+  "Name": "Marisa Monte"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8d8"
+  },
+  "ArtistId": 104,
+  "Name": "Marvin Gaye"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8d9"
+  },
+  "ArtistId": 105,
+  "Name": "Men At Work"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8da"
+  },
+  "ArtistId": 106,
+  "Name": "Motörhead"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8db"
+  },
+  "ArtistId": 107,
+  "Name": "Motörhead & Girlschool"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8dc"
+  },
+  "ArtistId": 108,
+  "Name": "Mônica Marianno"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8dd"
+  },
+  "ArtistId": 109,
+  "Name": "Mötley Crüe"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8de"
+  },
+  "ArtistId": 110,
+  "Name": "Nirvana"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8df"
+  },
+  "ArtistId": 111,
+  "Name": "O Terço"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8e0"
+  },
+  "ArtistId": 112,
+  "Name": "Olodum"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8e1"
+  },
+  "ArtistId": 113,
+  "Name": "Os Paralamas Do Sucesso"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8e2"
+  },
+  "ArtistId": 114,
+  "Name": "Ozzy Osbourne"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8e3"
+  },
+  "ArtistId": 115,
+  "Name": "Page & Plant"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8e4"
+  },
+  "ArtistId": 116,
+  "Name": "Passengers"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8e5"
+  },
+  "ArtistId": 117,
+  "Name": "Paul D'Ianno"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8e6"
+  },
+  "ArtistId": 118,
+  "Name": "Pearl Jam"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8e7"
+  },
+  "ArtistId": 119,
+  "Name": "Peter Tosh"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8e8"
+  },
+  "ArtistId": 120,
+  "Name": "Pink Floyd"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8e9"
+  },
+  "ArtistId": 121,
+  "Name": "Planet Hemp"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8ea"
+  },
+  "ArtistId": 122,
+  "Name": "R.E.M. Feat. Kate Pearson"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8eb"
+  },
+  "ArtistId": 123,
+  "Name": "R.E.M. Feat. KRS-One"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8ec"
+  },
+  "ArtistId": 124,
+  "Name": "R.E.M."
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8ed"
+  },
+  "ArtistId": 125,
+  "Name": "Raimundos"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8ee"
+  },
+  "ArtistId": 126,
+  "Name": "Raul Seixas"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8ef"
+  },
+  "ArtistId": 127,
+  "Name": "Red Hot Chili Peppers"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8f0"
+  },
+  "ArtistId": 128,
+  "Name": "Rush"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8f1"
+  },
+  "ArtistId": 129,
+  "Name": "Simply Red"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8f2"
+  },
+  "ArtistId": 130,
+  "Name": "Skank"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8f3"
+  },
+  "ArtistId": 131,
+  "Name": "Smashing Pumpkins"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8f4"
+  },
+  "ArtistId": 132,
+  "Name": "Soundgarden"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8f5"
+  },
+  "ArtistId": 133,
+  "Name": "Stevie Ray Vaughan & Double Trouble"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8f6"
+  },
+  "ArtistId": 134,
+  "Name": "Stone Temple Pilots"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8f7"
+  },
+  "ArtistId": 135,
+  "Name": "System Of A Down"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8f8"
+  },
+  "ArtistId": 136,
+  "Name": "Terry Bozzio, Tony Levin & Steve Stevens"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8f9"
+  },
+  "ArtistId": 137,
+  "Name": "The Black Crowes"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8fa"
+  },
+  "ArtistId": 138,
+  "Name": "The Clash"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8fb"
+  },
+  "ArtistId": 139,
+  "Name": "The Cult"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8fc"
+  },
+  "ArtistId": 140,
+  "Name": "The Doors"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8fd"
+  },
+  "ArtistId": 141,
+  "Name": "The Police"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8fe"
+  },
+  "ArtistId": 142,
+  "Name": "The Rolling Stones"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d8ff"
+  },
+  "ArtistId": 143,
+  "Name": "The Tea Party"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d900"
+  },
+  "ArtistId": 144,
+  "Name": "The Who"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d901"
+  },
+  "ArtistId": 145,
+  "Name": "Tim Maia"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d902"
+  },
+  "ArtistId": 146,
+  "Name": "Titãs"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d903"
+  },
+  "ArtistId": 147,
+  "Name": "Battlestar Galactica"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d904"
+  },
+  "ArtistId": 148,
+  "Name": "Heroes"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d905"
+  },
+  "ArtistId": 149,
+  "Name": "Lost"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d906"
+  },
+  "ArtistId": 150,
+  "Name": "U2"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d907"
+  },
+  "ArtistId": 151,
+  "Name": "UB40"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d908"
+  },
+  "ArtistId": 152,
+  "Name": "Van Halen"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d909"
+  },
+  "ArtistId": 153,
+  "Name": "Velvet Revolver"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d90a"
+  },
+  "ArtistId": 154,
+  "Name": "Whitesnake"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d90b"
+  },
+  "ArtistId": 155,
+  "Name": "Zeca Pagodinho"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d90c"
+  },
+  "ArtistId": 156,
+  "Name": "The Office"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d90d"
+  },
+  "ArtistId": 157,
+  "Name": "Dread Zeppelin"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d90e"
+  },
+  "ArtistId": 158,
+  "Name": "Battlestar Galactica (Classic)"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d90f"
+  },
+  "ArtistId": 159,
+  "Name": "Aquaman"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d910"
+  },
+  "ArtistId": 160,
+  "Name": "Christina Aguilera featuring BigElf"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d911"
+  },
+  "ArtistId": 161,
+  "Name": "Aerosmith & Sierra Leone's Refugee Allstars"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d912"
+  },
+  "ArtistId": 162,
+  "Name": "Los Lonely Boys"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d913"
+  },
+  "ArtistId": 163,
+  "Name": "Corinne Bailey Rae"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d914"
+  },
+  "ArtistId": 164,
+  "Name": "Dhani Harrison & Jakob Dylan"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d915"
+  },
+  "ArtistId": 165,
+  "Name": "Jackson Browne"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d916"
+  },
+  "ArtistId": 166,
+  "Name": "Avril Lavigne"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d917"
+  },
+  "ArtistId": 167,
+  "Name": "Big & Rich"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d918"
+  },
+  "ArtistId": 168,
+  "Name": "Youssou N'Dour"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d919"
+  },
+  "ArtistId": 169,
+  "Name": "Black Eyed Peas"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d91a"
+  },
+  "ArtistId": 170,
+  "Name": "Jack Johnson"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d91b"
+  },
+  "ArtistId": 171,
+  "Name": "Ben Harper"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d91c"
+  },
+  "ArtistId": 172,
+  "Name": "Snow Patrol"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d91d"
+  },
+  "ArtistId": 173,
+  "Name": "Matisyahu"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d91e"
+  },
+  "ArtistId": 174,
+  "Name": "The Postal Service"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d91f"
+  },
+  "ArtistId": 175,
+  "Name": "Jaguares"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d920"
+  },
+  "ArtistId": 176,
+  "Name": "The Flaming Lips"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d921"
+  },
+  "ArtistId": 177,
+  "Name": "Jack's Mannequin & Mick Fleetwood"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d922"
+  },
+  "ArtistId": 178,
+  "Name": "Regina Spektor"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d923"
+  },
+  "ArtistId": 179,
+  "Name": "Scorpions"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d924"
+  },
+  "ArtistId": 180,
+  "Name": "House Of Pain"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d925"
+  },
+  "ArtistId": 181,
+  "Name": "Xis"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d926"
+  },
+  "ArtistId": 182,
+  "Name": "Nega Gizza"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d927"
+  },
+  "ArtistId": 183,
+  "Name": "Gustavo & Andres Veiga & Salazar"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d928"
+  },
+  "ArtistId": 184,
+  "Name": "Rodox"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d929"
+  },
+  "ArtistId": 185,
+  "Name": "Charlie Brown Jr."
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d92a"
+  },
+  "ArtistId": 186,
+  "Name": "Pedro Luís E A Parede"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d92b"
+  },
+  "ArtistId": 187,
+  "Name": "Los Hermanos"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d92c"
+  },
+  "ArtistId": 188,
+  "Name": "Mundo Livre S/A"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d92d"
+  },
+  "ArtistId": 189,
+  "Name": "Otto"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d92e"
+  },
+  "ArtistId": 190,
+  "Name": "Instituto"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d92f"
+  },
+  "ArtistId": 191,
+  "Name": "Nação Zumbi"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d930"
+  },
+  "ArtistId": 192,
+  "Name": "DJ Dolores & Orchestra Santa Massa"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d931"
+  },
+  "ArtistId": 193,
+  "Name": "Seu Jorge"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d932"
+  },
+  "ArtistId": 194,
+  "Name": "Sabotage E Instituto"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d933"
+  },
+  "ArtistId": 195,
+  "Name": "Stereo Maracana"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d934"
+  },
+  "ArtistId": 196,
+  "Name": "Cake"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d935"
+  },
+  "ArtistId": 197,
+  "Name": "Aisha Duo"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d936"
+  },
+  "ArtistId": 198,
+  "Name": "Habib Koité and Bamada"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d937"
+  },
+  "ArtistId": 199,
+  "Name": "Karsh Kale"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d938"
+  },
+  "ArtistId": 200,
+  "Name": "The Posies"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d939"
+  },
+  "ArtistId": 201,
+  "Name": "Luciana Souza/Romero Lubambo"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d93a"
+  },
+  "ArtistId": 202,
+  "Name": "Aaron Goldberg"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d93b"
+  },
+  "ArtistId": 203,
+  "Name": "Nicolaus Esterhazy Sinfonia"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d93c"
+  },
+  "ArtistId": 204,
+  "Name": "Temple of the Dog"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d93d"
+  },
+  "ArtistId": 205,
+  "Name": "Chris Cornell"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d93e"
+  },
+  "ArtistId": 206,
+  "Name": "Alberto Turco & Nova Schola Gregoriana"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d93f"
+  },
+  "ArtistId": 207,
+  "Name": "Richard Marlow & The Choir of Trinity College, Cambridge"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d940"
+  },
+  "ArtistId": 208,
+  "Name": "English Concert & Trevor Pinnock"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d941"
+  },
+  "ArtistId": 209,
+  "Name": "Anne-Sophie Mutter, Herbert Von Karajan & Wiener Philharmoniker"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d942"
+  },
+  "ArtistId": 210,
+  "Name": "Hilary Hahn, Jeffrey Kahane, Los Angeles Chamber Orchestra & Margaret Batjer"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d943"
+  },
+  "ArtistId": 211,
+  "Name": "Wilhelm Kempff"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d944"
+  },
+  "ArtistId": 212,
+  "Name": "Yo-Yo Ma"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d945"
+  },
+  "ArtistId": 213,
+  "Name": "Scholars Baroque Ensemble"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d946"
+  },
+  "ArtistId": 214,
+  "Name": "Academy of St. Martin in the Fields & Sir Neville Marriner"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d947"
+  },
+  "ArtistId": 215,
+  "Name": "Academy of St. Martin in the Fields Chamber Ensemble & Sir Neville Marriner"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d948"
+  },
+  "ArtistId": 216,
+  "Name": "Berliner Philharmoniker, Claudio Abbado & Sabine Meyer"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d949"
+  },
+  "ArtistId": 217,
+  "Name": "Royal Philharmonic Orchestra & Sir Thomas Beecham"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d94a"
+  },
+  "ArtistId": 218,
+  "Name": "Orchestre Révolutionnaire et Romantique & John Eliot Gardiner"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d94b"
+  },
+  "ArtistId": 219,
+  "Name": "Britten Sinfonia, Ivor Bolton & Lesley Garrett"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d94c"
+  },
+  "ArtistId": 220,
+  "Name": "Chicago Symphony Chorus, Chicago Symphony Orchestra & Sir Georg Solti"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d94d"
+  },
+  "ArtistId": 221,
+  "Name": "Sir Georg Solti & Wiener Philharmoniker"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d94e"
+  },
+  "ArtistId": 222,
+  "Name": "Academy of St. Martin in the Fields, John Birch, Sir Neville Marriner & Sylvia McNair"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d94f"
+  },
+  "ArtistId": 223,
+  "Name": "London Symphony Orchestra & Sir Charles Mackerras"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d950"
+  },
+  "ArtistId": 224,
+  "Name": "Barry Wordsworth & BBC Concert Orchestra"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d951"
+  },
+  "ArtistId": 225,
+  "Name": "Herbert Von Karajan, Mirella Freni & Wiener Philharmoniker"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d952"
+  },
+  "ArtistId": 226,
+  "Name": "Eugene Ormandy"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d953"
+  },
+  "ArtistId": 227,
+  "Name": "Luciano Pavarotti"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d954"
+  },
+  "ArtistId": 228,
+  "Name": "Leonard Bernstein & New York Philharmonic"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d955"
+  },
+  "ArtistId": 229,
+  "Name": "Boston Symphony Orchestra & Seiji Ozawa"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d956"
+  },
+  "ArtistId": 230,
+  "Name": "Aaron Copland & London Symphony Orchestra"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d957"
+  },
+  "ArtistId": 231,
+  "Name": "Ton Koopman"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d958"
+  },
+  "ArtistId": 232,
+  "Name": "Sergei Prokofiev & Yuri Temirkanov"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d959"
+  },
+  "ArtistId": 233,
+  "Name": "Chicago Symphony Orchestra & Fritz Reiner"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d95a"
+  },
+  "ArtistId": 234,
+  "Name": "Orchestra of The Age of Enlightenment"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d95b"
+  },
+  "ArtistId": 235,
+  "Name": "Emanuel Ax, Eugene Ormandy & Philadelphia Orchestra"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d95c"
+  },
+  "ArtistId": 236,
+  "Name": "James Levine"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d95d"
+  },
+  "ArtistId": 237,
+  "Name": "Berliner Philharmoniker & Hans Rosbaud"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d95e"
+  },
+  "ArtistId": 238,
+  "Name": "Maurizio Pollini"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d95f"
+  },
+  "ArtistId": 239,
+  "Name": "Academy of St. Martin in the Fields, Sir Neville Marriner & William Bennett"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d960"
+  },
+  "ArtistId": 240,
+  "Name": "Gustav Mahler"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d961"
+  },
+  "ArtistId": 241,
+  "Name": "Felix Schmidt, London Symphony Orchestra & Rafael Frühbeck de Burgos"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d962"
+  },
+  "ArtistId": 242,
+  "Name": "Edo de Waart & San Francisco Symphony"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d963"
+  },
+  "ArtistId": 243,
+  "Name": "Antal Doráti & London Symphony Orchestra"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d964"
+  },
+  "ArtistId": 244,
+  "Name": "Choir Of Westminster Abbey & Simon Preston"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d965"
+  },
+  "ArtistId": 245,
+  "Name": "Michael Tilson Thomas & San Francisco Symphony"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d966"
+  },
+  "ArtistId": 246,
+  "Name": "Chor der Wiener Staatsoper, Herbert Von Karajan & Wiener Philharmoniker"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d967"
+  },
+  "ArtistId": 247,
+  "Name": "The King's Singers"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d968"
+  },
+  "ArtistId": 248,
+  "Name": "Berliner Philharmoniker & Herbert Von Karajan"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d969"
+  },
+  "ArtistId": 249,
+  "Name": "Sir Georg Solti, Sumi Jo & Wiener Philharmoniker"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d96a"
+  },
+  "ArtistId": 250,
+  "Name": "Christopher O'Riley"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d96b"
+  },
+  "ArtistId": 251,
+  "Name": "Fretwork"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d96c"
+  },
+  "ArtistId": 252,
+  "Name": "Amy Winehouse"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d96d"
+  },
+  "ArtistId": 253,
+  "Name": "Calexico"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d96e"
+  },
+  "ArtistId": 254,
+  "Name": "Otto Klemperer & Philharmonia Orchestra"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d96f"
+  },
+  "ArtistId": 255,
+  "Name": "Yehudi Menuhin"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d970"
+  },
+  "ArtistId": 256,
+  "Name": "Philharmonia Orchestra & Sir Neville Marriner"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d971"
+  },
+  "ArtistId": 257,
+  "Name": "Academy of St. Martin in the Fields, Sir Neville Marriner & Thurston Dart"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d972"
+  },
+  "ArtistId": 258,
+  "Name": "Les Arts Florissants & William Christie"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d973"
+  },
+  "ArtistId": 259,
+  "Name": "The 12 Cellists of The Berlin Philharmonic"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d974"
+  },
+  "ArtistId": 260,
+  "Name": "Adrian Leaper & Doreen de Feis"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d975"
+  },
+  "ArtistId": 261,
+  "Name": "Roger Norrington, London Classical Players"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d976"
+  },
+  "ArtistId": 262,
+  "Name": "Charles Dutoit & L'Orchestre Symphonique de Montréal"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d977"
+  },
+  "ArtistId": 263,
+  "Name": "Equale Brass Ensemble, John Eliot Gardiner & Munich Monteverdi Orchestra and Choir"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d978"
+  },
+  "ArtistId": 264,
+  "Name": "Kent Nagano and Orchestre de l'Opéra de Lyon"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d979"
+  },
+  "ArtistId": 265,
+  "Name": "Julian Bream"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d97a"
+  },
+  "ArtistId": 266,
+  "Name": "Martin Roscoe"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d97b"
+  },
+  "ArtistId": 267,
+  "Name": "Göteborgs Symfoniker & Neeme Järvi"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d97c"
+  },
+  "ArtistId": 268,
+  "Name": "Itzhak Perlman"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d97d"
+  },
+  "ArtistId": 269,
+  "Name": "Michele Campanella"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d97e"
+  },
+  "ArtistId": 270,
+  "Name": "Gerald Moore"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d97f"
+  },
+  "ArtistId": 271,
+  "Name": "Mela Tenenbaum, Pro Musica Prague & Richard Kapp"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d980"
+  },
+  "ArtistId": 272,
+  "Name": "Emerson String Quartet"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d981"
+  },
+  "ArtistId": 273,
+  "Name": "C. Monteverdi, Nigel Rogers - Chiaroscuro; London Baroque; London Cornett & Sackbu"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d982"
+  },
+  "ArtistId": 274,
+  "Name": "Nash Ensemble"
+},
+{
+  "_id": {
+    "$oid": "663ade6d66b40e3a0059d983"
+  },
+  "ArtistId": 275,
+  "Name": "Philip Glass Ensemble"
+}]
